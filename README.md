@@ -1,3 +1,4 @@
-Build a management tool for examination at an univeristy with multiple OOP concepts.
+# ExaminationTool
+The tool helps the professors by streamlining the calculation of students' final grades.
 
-I used two design patterns: Singleton and Observer.
+I used multiple OOP concepts and two design patterns: Singleton and Observer.
